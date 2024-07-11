@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-  color: #fff;
+  color: #ac741a;
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
 }
@@ -80,7 +80,7 @@ h1 {
 }
 
 .completed {
-  color: #c5aeff;
+  color: #e2b168;
   text-decoration: line-through;
   cursor: pointer;
 }
